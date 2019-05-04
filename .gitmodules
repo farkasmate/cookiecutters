@@ -1,3 +1,6 @@
 [submodule "cookiecutter-meta"]
 	path = cookiecutter-meta
 	url = git@github.com:farkasmate/cookiecutter-meta.git
+[submodule "cookiecutter-rubygem"]
+	path = cookiecutter-rubygem
+	url = git@github.com:farkasmate/cookiecutter-rubygem.git
