@@ -10,3 +10,7 @@ Generate projects with cookiecutter.
 
     pipenv install
     pipenv run cookiecutter <template>
+
+## Add cookiecutter as submodule
+
+    git submodule add git@github.com:farkasmate/cookiecutter-meta.git
