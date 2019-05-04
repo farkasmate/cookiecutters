@@ -1,0 +1,6 @@
+default_context:
+  full_name: "Mate Farkas"
+  email: "mate.farkas@sch.hu"
+  github_username: "farkasmate"
+
+cookiecutters_dir: "~/git/cookiecutters/"
