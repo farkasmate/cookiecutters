@@ -4,3 +4,6 @@
 [submodule "cookiecutter-rubygem"]
 	path = cookiecutter-rubygem
 	url = git@github.com:farkasmate/cookiecutter-rubygem.git
+[submodule "cookiecutter-pipenv"]
+	path = cookiecutter-pipenv
+	url = git@github.com:farkasmate/cookiecutter-pipenv.git
