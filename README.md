@@ -4,6 +4,7 @@ Generate projects with cookiecutter.
 
 ## Configure
 
+    git submodule update --init
     cp -a .cookiecutterrc ~/
 
 ## Usage
