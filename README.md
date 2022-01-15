@@ -2,11 +2,15 @@
 
 Generate projects with cookiecutter.
 
+## What is Cookiecutter?
+
+https://github.com/cookiecutter/cookiecutter#readme
+
 ## Configure
 
 ```
 git submodule update --init
-cp -a .cookiecutterrc ~/
+ln -s ${PWD}/.cookiecutterrc ~/
 ```
 
 ## Usage
