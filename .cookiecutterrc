@@ -2,5 +2,6 @@ default_context:
   full_name: "Mate Farkas"
   email: "mate.farkas@sch.hu"
   github_username: "farkasmate"
+  dockerhub_username: "matefarkas"
 
 cookiecutters_dir: "~/git/cookiecutters/"

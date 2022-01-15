@@ -7,3 +7,6 @@
 [submodule "cookiecutter-pipenv"]
 	path = cookiecutter-pipenv
 	url = git@github.com:farkasmate/cookiecutter-pipenv.git
+[submodule "cookiecutter-whalebrew"]
+	path = cookiecutter-whalebrew
+	url = git@github.com:farkasmate/cookiecutter-whalebrew.git
